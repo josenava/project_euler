@@ -17,6 +17,7 @@ def isMultipleOf_3(num):
 def isMultipleOf_5(num):
     return 0 == num % 5
 
+
 def main(num):
     total = 0
     for i in xrange(0, num):
